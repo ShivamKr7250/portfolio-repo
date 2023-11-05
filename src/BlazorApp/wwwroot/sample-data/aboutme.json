@@ -1,12 +1,16 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I'm a Backend Developer student studying at Maharishi Markendswar (Deemed to be University), Mullana, Ambala . I enjoy creating Backend logic and solving the bug when occured.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "Backend Developer",
+    "Logic Building",
+    "Entity Framework Core",
+    "Azure & AWS",
+    "MS SQL",
+    "ASP.NET Core",
+    "Team Leadership",
+    "Team Mangement",
+    "President Of CODEx Club",
+    "Free lancer"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "I am passionate about createing backend logic in new creative ways to drive innovation. By leveraging my Backend Development experience I continually look for new and better ways to make tech accessible by all."
 }
